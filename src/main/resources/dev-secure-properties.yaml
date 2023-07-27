@@ -1,0 +1,7 @@
+database:
+  host: "cloud-services.demos.mulesoft.com"
+  port: "30818"
+  database: "Customer"
+  user: "![7B2N562jWhY=]"
+  password: "![TVtHXG6G/9MXgf463M4dBw==]"
+
